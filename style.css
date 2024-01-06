@@ -1,0 +1,184 @@
+.image{
+    width: 100%;
+    height: 100vh;
+}
+.index{
+    border: none;
+    background-color: transparent;
+    font-size: 23px;
+    font-weight: 800;
+    margin-top: 30px;
+    color: #2e2d2d;
+    position: absolute;
+    top: 0;
+    left: 10%;
+}
+.web{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #d5c455;
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+.name{
+    font-weight: 700;
+    color: #222222;
+    font-size: 85px;
+}
+.lala{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    height: 100vh;
+}
+
+.about{
+
+    border: none;
+    background-color: #d5c455;
+    padding: 15px 20px;
+    color: white;
+    font-weight: 700;
+}
+.contact{
+    border: none;
+    background-color:white;
+    padding:15px 20px;
+    color: black;
+    font-weight: 600;
+    
+}
+.aboutHead{
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    margin-top: 80px;
+}
+.peragraf{
+    margin-top: 30px;
+    color: rgb(166, 156, 144);
+}
+.drop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+#dropdownMenuButton{
+    background-color: #d5c455;
+    border: none;
+    color: rgb(48, 45, 45);
+    font-weight: 600;
+}
+
+.heading{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+.cardImg{
+    height: 150px;
+    border-radius: 10px;
+}
+.cards{
+    margin-top: 50px;
+    border: none;
+    
+    /* box-shadow: 0 0 10px gray; */
+}
+.card{
+    
+    border: none;
+    box-shadow: 0 0 10px gray;
+    padding: 10px;
+}
+.card:hover{
+    box-shadow: 0 0 30px #d5c455;
+}
+.card-title{
+    font-weight: 700;
+    color: white;
+}
+.card-text{
+    color: white;
+}
+.butt{
+    border: none;
+    padding: 10px 15px;
+    color: rgb(242, 234, 221);
+    background-color: #1ea07d;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.fa-solid{
+    font-size: 30px;
+    color: #d5c455;
+}
+.fa-brands{
+    font-size: 30px;
+    color: #d5c455;
+}
+.emailBox{
+    text-align: end;
+}
+.input1{
+    width: 70%;
+    border: none;
+    margin-top: 50px;
+    padding: 10px;
+    
+    box-shadow: 0 0 5px #d5c455;
+    border-radius: 5px;
+}
+.input2{
+    width: 70%;
+    border: none;
+    padding: 10px;
+    
+    box-shadow: 0 0 5px #d5c455;
+    border-radius: 5px;
+}
+.input3{
+    width: 70%;
+    border: none;
+    padding: 10px;
+    
+    box-shadow: 0 0 5px #d5c455;
+    border-radius: 5px;
+}
+.submit{
+    border: none;
+    padding:10px 30px ;
+    border-radius: 10px;
+    color: white;
+    background-color: #d5c455;
+    font-weight: 700;
+}
+.submit:hover{
+    background-color: #4b4309;
+}
+.contactHead{
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    margin-bottom: 30px;
+    color: #d5c455;
+}
+.peragraf{
+    font-weight: 500;
+    color: #615609;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
